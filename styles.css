@@ -23,6 +23,10 @@ header {
     top: 0%
 }
 
+#bar_filler {
+    z-index: 999;
+}
+
 #top-bar {
     display: block;
     position: fixed;
